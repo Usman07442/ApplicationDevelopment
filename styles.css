@@ -1,0 +1,24 @@
+body { 
+	background-color: Azure;
+     }
+
+h1 {
+	font-family:veranda;
+	color:black
+	text-align: center;
+    }
+
+h2 {
+	font-family:veranda;
+	text-align: center;
+  }
+
+h3 {
+	font-family:veranda;
+	text-align: center;
+   }
+
+p {
+    font-family:veranda;
+    font-size:20px;
+  }
