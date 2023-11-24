@@ -1,0 +1,32 @@
+.top-section {
+    background-color: lightblue;
+    height: 50px;
+    width: 100%;
+}
+
+.left-section {
+    background-color: lightgreen;
+    height: 450px;
+    width: 30%;
+    float: left;
+}
+
+.right-section {
+    height: 450px;
+    width: 70%;
+    float: right;
+}
+
+.right-section-sub1 {
+    background-color: lightcoral;
+    height: 225px;
+    width: 100%;
+    float: top;
+}
+
+.right-section-sub2 {
+    background-color: lightsteelblue;
+    height: 225px;
+    width: 100%;
+    float: bottom;
+}
